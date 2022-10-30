@@ -5,5 +5,5 @@
 Цель - привлекать больше водителей в период пиковой нагрузки.
 
 ## Используемые инструменты инструменты
-Timeseries, LightGBM, RandomForest, LinearRegression, Plotly
+Timeseries, LightGBM, RandomForest, Plotly
 
